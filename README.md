@@ -3,6 +3,9 @@
 ## Overview
 This project implements a machine learning model to detect fake news articles. The model uses a combination of **Word2Vec embeddings**, **Gradient Boosting**, and an **LSTM-based neural network** to classify news articles as either **reliable (0)** or **unreliable (1)**.
 
+## Dataset
+https://www.kaggle.com/competitions/fake-news/data
+
 ## Features
 - **Data Preprocessing**: 
   - Cleans text by removing non-alphabetic characters.
